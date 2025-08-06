@@ -1,0 +1,85 @@
+# Privacy Policy for AppSpace Launcher
+
+**Last updated:** August 6, 2025
+
+## Introduction
+
+AppSpace Launcher ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our macOS application.
+
+## Data Collection and Storage
+
+### What We Don't Collect
+- **No Personal Information**: We do not collect, store, or transmit any personal information about you
+- **No Usage Analytics**: We do not track how you use the app
+- **No Cloud Storage**: We do not store any of your data on external servers
+- **No Network Monitoring**: We do not monitor your network activity
+
+### What We Store Locally
+All data is stored locally on your Mac and never leaves your device:
+- **App Preferences**: Your settings, pinned apps, folders, and customizations
+- **App Icons**: Any custom icons you choose for apps or folders
+- **Pinned Locations**: Bookmarks to folders you've pinned (stored locally)
+- **Password Protection**: Any master password you set (stored securely using macOS keychain)
+
+## Third-Party Services
+
+### Apple Services
+- **App Store**: For app distribution and updates
+- **StoreKit**: For subscription management (handled entirely by Apple)
+- **macOS Keychain**: For secure password storage (Apple's built-in security feature)
+
+### No Other Third-Party Services
+We do not use any analytics services, advertising networks, or other third-party data collection tools.
+
+## Data Security
+
+### Local Storage
+- All your data is stored locally on your Mac
+- We use Apple's recommended security practices
+- Passwords are stored using macOS Keychain encryption
+
+### Network Access
+- The app only makes network connections for:
+  - App Store subscription verification (via StoreKit)
+  - Opening network locations you choose to access
+- No data is transmitted to our servers (we don't have any)
+
+## Your Rights
+
+Since we don't collect personal data, there's no personal information to:
+- Access
+- Correct
+- Delete
+- Port to another service
+
+Your data is entirely under your control on your local device.
+
+## Children's Privacy
+
+Our app does not knowingly collect any personal information from children under 13. Since we don't collect any personal information from anyone, this is not applicable.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+- Posting the new Privacy Policy on this page
+- Updating the "Last updated" date
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+- **Email**: [Your contact email]
+- **GitHub**: [https://github.com/appspacelauncher/appspace](https://github.com/appspacelauncher/appspace)
+
+## Legal Basis
+
+This Privacy Policy complies with:
+- General Data Protection Regulation (GDPR)
+- California Consumer Privacy Act (CCPA)
+- Other applicable privacy laws
+
+Since we don't collect personal data, most privacy law requirements don't apply to our app, but we're committed to transparency about our practices.
+
+---
+
+*AppSpace Launcher is designed with privacy in mind. Your data stays on your device, where it belongs.*
